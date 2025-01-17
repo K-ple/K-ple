@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/aca43078-7d15-41dc-bf7e-cb76507bd14d" />&nbsp
+  <img src="https://github.com/user-attachments/assets/0d901196-6fce-46e4-8832-d44632dd9e95" />&nbsp
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=B6D6F7&center=true&vCenter=true&width=435&lines=Learning+AI+and+Data+Science+on+FoodTech">
 </div>
 
