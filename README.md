@@ -17,8 +17,11 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp;
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=Seaborn&logoColor=white" />&nbsp
+</div>
 
-<br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
