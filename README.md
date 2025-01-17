@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/aca43078-7d15-41dc-bf7e-cb76507bd14d" />&nbsp
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=B6D6F7&center=true&vCenter=true&width=435&center=True&lines=Learning+AI+and+Data+Science+on+FoodTech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=B6D6F7&center=true&vCenter=true&width=435&vCenter=True&lines=Learning+AI+and+Data+Science+on+FoodTech)](https://git.io/typing-svg)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
