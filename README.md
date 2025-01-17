@@ -23,7 +23,7 @@
 </div>
 
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">👨‍🎓 Studying 👨‍🎓</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />&nbsp
