@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/733e5a37-4cd4-48e7-be49-2affa75b7e5e">
-
+  <img src="https://github.com/user-attachments/assets/d6d0b9c0-2135-493b-84ed-334d0b5f4dd6" />&nbsp
+</div>
 
 
 <!--내용 부분-->
