@@ -32,7 +32,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=HuggingFace&logoColor=white" />&nbsp
+  
 </div>
 <br>
 
@@ -47,8 +47,9 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />&nbsp
 </div>
-
-
+<div align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=HuggingFace&logoColor=white" />&nbsp
+</div>
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
