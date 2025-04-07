@@ -37,6 +37,12 @@
 </div>
 <br>
 
+<h3 align="center">Certificate</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/ADsP(studying)-276DC3?style=for-the-badge&logo=R&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SQLD(studying)-003B57?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
+<br>
+  
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
